@@ -1,5 +1,5 @@
 
-# 🎨 Pattern Programs in C++
+# 🎨 DSA using C++
 
 This repository contains various **pattern printing programs** in **C++**.  
 Perfect for beginners who want to practice **loops, conditionals, and basic logic building**.
